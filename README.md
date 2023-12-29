@@ -1,7 +1,7 @@
 # BHARAT_INTERN_ML
 Completed Tasks at Bharat Intern. This experience has been enriching and challenging me to grow and excel in new ways. I am grateful for the opportunity to contribute to meaningful projects.
 
-TASK PERFORMED
+**TASK PERFORMED**
 
 1. House Price Prediction :
 Develop a machine learning model for
